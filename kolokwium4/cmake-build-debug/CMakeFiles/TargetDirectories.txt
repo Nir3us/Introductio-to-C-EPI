@@ -1,0 +1,3 @@
+C:/Users/Student/Documents/nb/kolokwium4/cmake-build-debug/CMakeFiles/kolokwium4.dir
+C:/Users/Student/Documents/nb/kolokwium4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/Documents/nb/kolokwium4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
