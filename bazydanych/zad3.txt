@@ -1,0 +1,4 @@
+3/4. Tabela drużyna posiada: 2 atrybuty 5 krotek, Tabela gracze posiada: 5 atrybuty 9 krotek, Tabela mecze posiada: 4 atrybuty 10 krotek, Tabela paramatry_gracza posiada: 3 atrybuty 9 krotek
+5. drużyna-druzyna_ID --> gracze-gracz_ID --> paramatry_gracza-gracz_ID     mecze-mecz_ID --> gospodarze_id/goscie_id
+6. Robert jest w Ruch Chorzow, a Bartek jest nieprzydzielony/NULL
+7.
