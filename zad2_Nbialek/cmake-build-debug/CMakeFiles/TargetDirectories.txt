@@ -1,0 +1,3 @@
+C:/Users/Student/Documents/nb/zad2_Nbialek/cmake-build-debug/CMakeFiles/zad2_Nbialek.dir
+C:/Users/Student/Documents/nb/zad2_Nbialek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/Documents/nb/zad2_Nbialek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
