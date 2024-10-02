@@ -1,0 +1,3 @@
+C:/Users/Student/Documents/nb/tablicezajecia07/cmake-build-debug/CMakeFiles/tablicezajecia07.dir
+C:/Users/Student/Documents/nb/tablicezajecia07/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/Documents/nb/tablicezajecia07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
